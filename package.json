@@ -1,0 +1,14 @@
+{
+  "name": "monkey-web",
+  "version": "1.0.0",
+  "description": "Monkey para probar la página web https://losestudiantes.com/",
+  "scripts": {
+    "start": "npx cypress open"
+  },
+  "author": "Brayan Henao - @brayanhenao",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "cypress": "^10.11.0"
+  }
+}
